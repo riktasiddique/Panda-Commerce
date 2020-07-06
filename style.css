@@ -46,5 +46,20 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
     
+    
+}
+.card-footr{
+    background-color: white;
+    border-top: none ;
+
+}
+
+#subcribe{
+    height: 300px;  
+}
+
+#subcribe h5{
+    color: gray;
 }
